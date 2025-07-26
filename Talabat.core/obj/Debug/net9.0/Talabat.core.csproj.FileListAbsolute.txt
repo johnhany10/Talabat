@@ -1,0 +1,11 @@
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\bin\Debug\net9.0\Talabat.core.deps.json
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\bin\Debug\net9.0\Talabat.core.dll
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\bin\Debug\net9.0\Talabat.core.pdb
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\obj\Debug\net9.0\Talabat.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\obj\Debug\net9.0\Talabat.core.AssemblyInfoInputs.cache
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\obj\Debug\net9.0\Talabat.core.AssemblyInfo.cs
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\obj\Debug\net9.0\Talabat.core.csproj.CoreCompileInputs.cache
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\obj\Debug\net9.0\Talabat.core.dll
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\obj\Debug\net9.0\refint\Talabat.core.dll
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\obj\Debug\net9.0\Talabat.core.pdb
+D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.core\obj\Debug\net9.0\ref\Talabat.core.dll
