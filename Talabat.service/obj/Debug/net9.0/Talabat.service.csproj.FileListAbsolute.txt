@@ -9,3 +9,15 @@ D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.serv
 D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.service\obj\Debug\net9.0\refint\Talabat.service.dll
 D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.service\obj\Debug\net9.0\Talabat.service.pdb
 D:\My ITI internship\my projects\Route WebAPI\Talabat last repeated\Talabat.service\obj\Debug\net9.0\ref\Talabat.service.dll
+D:\My ITI internship\my projects\Talabat\Talabat.service\bin\Debug\net9.0\Talabat.service.deps.json
+D:\My ITI internship\my projects\Talabat\Talabat.service\bin\Debug\net9.0\Talabat.service.dll
+D:\My ITI internship\my projects\Talabat\Talabat.service\bin\Debug\net9.0\Talabat.service.pdb
+D:\My ITI internship\my projects\Talabat\Talabat.service\obj\Debug\net9.0\Talabat.service.GeneratedMSBuildEditorConfig.editorconfig
+D:\My ITI internship\my projects\Talabat\Talabat.service\obj\Debug\net9.0\Talabat.service.AssemblyInfoInputs.cache
+D:\My ITI internship\my projects\Talabat\Talabat.service\obj\Debug\net9.0\Talabat.service.AssemblyInfo.cs
+D:\My ITI internship\my projects\Talabat\Talabat.service\obj\Debug\net9.0\Talabat.service.csproj.CoreCompileInputs.cache
+D:\My ITI internship\my projects\Talabat\Talabat.service\obj\Debug\net9.0\Talabat.service.sourcelink.json
+D:\My ITI internship\my projects\Talabat\Talabat.service\obj\Debug\net9.0\Talabat.service.dll
+D:\My ITI internship\my projects\Talabat\Talabat.service\obj\Debug\net9.0\refint\Talabat.service.dll
+D:\My ITI internship\my projects\Talabat\Talabat.service\obj\Debug\net9.0\Talabat.service.pdb
+D:\My ITI internship\my projects\Talabat\Talabat.service\obj\Debug\net9.0\ref\Talabat.service.dll
